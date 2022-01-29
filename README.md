@@ -1,19 +1,5 @@
-# music
+## 本项目采用了vue3.2 + naiveUI
 
-## Project setup
-```
-npm install
-```
+## 目前只完成了首页
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 接口是在GitHub上面找的网易云的接口
